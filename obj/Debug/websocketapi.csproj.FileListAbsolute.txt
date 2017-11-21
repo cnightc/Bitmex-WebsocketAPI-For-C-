@@ -1,0 +1,40 @@
+F:\Develop\接单任务\1710-1-2202API\websocketapi\bin\Debug\websocketapi.exe
+F:\Develop\接单任务\1710-1-2202API\websocketapi\bin\Debug\websocketapi.pdb
+F:\Develop\接单任务\1710-1-2202API\websocketapi\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Develop\接单任务\1710-1-2202API\websocketapi\bin\Debug\Newtonsoft.Json.dll
+F:\Develop\接单任务\1710-1-2202API\websocketapi\bin\Debug\websocket-sharp.dll
+F:\Develop\接单任务\1710-1-2202API\websocketapi\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\Develop\接单任务\1710-1-2202API\websocketapi\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\Develop\接单任务\1710-1-2202API\websocketapi\bin\Debug\Newtonsoft.Json.xml
+F:\Develop\接单任务\1710-1-2202API\websocketapi\bin\Debug\websocket-sharp.pdb
+F:\Develop\接单任务\1710-1-2202API\websocketapi\obj\Debug\websocketapi.Form1.resources
+F:\Develop\接单任务\1710-1-2202API\websocketapi\obj\Debug\websocketapi.Properties.Resources.resources
+F:\Develop\接单任务\1710-1-2202API\websocketapi\obj\Debug\websocketapi.csproj.GenerateResource.Cache
+F:\Develop\接单任务\1710-1-2202API\websocketapi\obj\Debug\websocketapi.exe
+F:\Develop\接单任务\1710-1-2202API\websocketapi\obj\Debug\websocketapi.pdb
+F:\Develop\接单任务\1710-1-2202API\websocketapi\obj\Debug\websocketapi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\websocketapi\obj\Debug\websocketapi.exe
+C:\Users\Administrator\Desktop\websocketapi\obj\Debug\websocketapi.pdb
+C:\Users\Administrator\Desktop\websocketapi\obj\Debug\websocketapi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\websocketapi\obj\Debug\websocketapi.Form1.resources
+C:\Users\Administrator\Desktop\websocketapi\obj\Debug\websocketapi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\websocketapi\obj\Debug\websocketapi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\websocketapi\bin\Debug\websocketapi.exe
+C:\Users\Administrator\Desktop\websocketapi\bin\Debug\websocketapi.pdb
+C:\Users\Administrator\Desktop\websocketapi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\websocketapi\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Administrator\Desktop\websocketapi\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\websocketapi\bin\Debug\websocket-sharp.pdb
+C:\Users\Guan Qili\Desktop\sc\WebsocketForBitmex\bin\Debug\websocketapi.exe
+C:\Users\Guan Qili\Desktop\sc\WebsocketForBitmex\bin\Debug\websocketapi.pdb
+C:\Users\Guan Qili\Desktop\sc\WebsocketForBitmex\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Guan Qili\Desktop\sc\WebsocketForBitmex\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Guan Qili\Desktop\sc\WebsocketForBitmex\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Guan Qili\Desktop\sc\WebsocketForBitmex\bin\Debug\websocket-sharp.pdb
+C:\Users\Guan Qili\Desktop\sc\WebsocketForBitmex\obj\Debug\websocketapi.csprojResolveAssemblyReference.cache
+C:\Users\Guan Qili\Desktop\sc\WebsocketForBitmex\obj\Debug\websocketapi.Form1.resources
+C:\Users\Guan Qili\Desktop\sc\WebsocketForBitmex\obj\Debug\websocketapi.Properties.Resources.resources
+C:\Users\Guan Qili\Desktop\sc\WebsocketForBitmex\obj\Debug\websocketapi.csproj.GenerateResource.Cache
+C:\Users\Guan Qili\Desktop\sc\WebsocketForBitmex\obj\Debug\websocketapi.csproj.CoreCompileInputs.cache
+C:\Users\Guan Qili\Desktop\sc\WebsocketForBitmex\obj\Debug\websocketapi.exe
+C:\Users\Guan Qili\Desktop\sc\WebsocketForBitmex\obj\Debug\websocketapi.pdb
